@@ -19,4 +19,5 @@ abstract class DBManager{
         return $var;
         $req->closeCursor();
     }
+    //test
 }
