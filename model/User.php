@@ -10,7 +10,7 @@ class User
     {
         $this->hydrate($data);
     }
-
+//test2
     public function hydrate(array $data)
     {
         foreach($data as $key => $value)
